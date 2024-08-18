@@ -4,6 +4,14 @@ title: Professional Self-Assessment
 permalink: /
 ---
 
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About</a></li>
+    <!-- Add more links here -->
+  </ul>
+</nav>
+
 # Professional Self-Assessment
 
 ## Introduction to My Journey in the Computer Science Program
@@ -31,5 +39,3 @@ For example, my work on the Rescue Animal System highlights my skills in softwar
 ## Conclusion
 
 In conclusion, completing my coursework and developing this ePortfolio has not only helped me showcase my strengths but has also solidified my professional goals. I am now better prepared to enter the computer science field with a robust skill set, a commitment to continuous learning, and the confidence to contribute meaningfully to any team or project.
-
-

@@ -8,7 +8,7 @@ permalink: /
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/about/">About</a></li>
-    <!-- Add more links here -->
+    <li><a href="/code-review/">Code Review</a></li>
   </ul>
 </nav>
 

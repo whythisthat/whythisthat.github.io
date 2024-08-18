@@ -6,12 +6,12 @@ permalink: /about/
 
 <nav style="text-align: center; margin-bottom: 20px;">
   <ul style="list-style-type: none; padding: 0; margin: 0; display: inline-block;">
-    <li style="display: inline; margin-right: 15px;"><a href="/">Home</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="/about/">About</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="/code-review/">Code Review</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="/software-design-engineering/">Software Design and Engineering</a></li>
-    <li style="display: inline; margin-right: 15px;"><a href="/algorithms-data-structure/">Algorithms and Data Structure</a></li>
-    <li style="display: inline; margin-right: 0;"><a href="/database/">Database</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="/">Home</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="/about/">About</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="/code-review/">Code Review</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="/software-design-engineering/">Software Design and Engineering</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="/algorithms-data-structure/">Algorithms and Data Structure</a></li>
+    <li style="display: inline;"><a href="/database/">Database</a></li>
   </ul>
 </nav>
 

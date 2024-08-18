@@ -16,6 +16,6 @@ permalink: /code-review/
 
 Below is an embedded video of my code review.
 
-<iframe width="560" height="315" src="https://youtu.be/y7ip-TVkY4U" 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y7ip-TVkY4U" 
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>

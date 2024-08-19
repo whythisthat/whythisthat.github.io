@@ -59,8 +59,8 @@ One of the primary challenges I faced was ensuring that the converted Python cod
 
 You can view the enhanced source code for the algorithms and data structures by following the links below:
 
-- [Original code](https://github.com/whythisthat/CS-499/blob/main/Enhancement%20Three/OldRescueAnimal.java): This file contains the implementation of the Quicksort algorithm in Python.
-- [Ehanced Code](https://github.com/whythisthat/CS-499/tree/main/Enhancement%20Three): This file contains the implementation of the Binary Search algorithm in Python.
+- [Original code](https://github.com/whythisthat/CS-499/blob/main/Enhancement Two/OldRescueAnimal.java): This file contains the implementation of the Quicksort algorithm in Python.
+- [Ehanced Code](https://github.com/whythisthat/CS-499/blob/main/Enhancement Two/OldRescueAnimal.java): This file contains the implementation of the Binary Search algorithm in Python.
 
 ### Achievement of Course Outcomes
 

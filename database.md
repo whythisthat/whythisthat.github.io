@@ -72,7 +72,7 @@ One of the challenges I faced was balancing the need for efficient data retrieva
 
 You can view the enhanced source code for the animal rescue management system by following the link below:
 
-- [Repository for Enhanced Database Code](https://github.com/whythisthat/CS-499/tree/main/Enhancement%20Three%20Databases/rescue_animal_system): This repository contains the complete source code for the enhanced web-based animal rescue management system, including all database-related improvements.
+- [Repository for Enhanced Database Code](https://github.com/whythisthat/CS-499/tree/482209c83c93c5e1d9b809dd268712bd30f0c71a/Enhancement%20Three%20Databases/rescue_animal_system): This repository contains the complete source code for the enhanced web-based animal rescue management system, including all database-related improvements.
 
 ### Conclusion
 

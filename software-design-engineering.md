@@ -55,8 +55,8 @@ One of the main challenges I encountered was ensuring seamless integration of th
 
 You can view the source code for the Rescue Animal System by following the links below:
 
-- [Animal.java](https://github.com/whythisthat/CS-499/blob/main/EnhancementTwo/OldRescueAnimal.java): This file contains the definition for the `Animal` class, which represents an animal in the system.
-- [RescueAnimalSystem.java](https://github.com/whythisthat/CS-499/blob/main/EnhancementTwo/enhancedRescueAnimal.py): This file contains the main system logic for managing the rescue animals.
+- [Animal.java](https://github.com/whythisthat/CS-499/blob/main/Enhancement%20One/OldRescueAnimal.java): This file contains the definition for the `Animal` class, which represents an animal in the system.
+- [RescueAnimalSystem.java](https://github.com/whythisthat/CS-499/blob/main/Enhancement%20One/enhancedRescueAnimal.py): This file contains the main system logic for managing the rescue animals.
 
 ### Achievement of Course Outcomes
 
